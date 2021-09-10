@@ -1,4 +1,4 @@
 # Imperial-College-London
 "Author LIHUI ZHAO"
-\n Codes for Imperial College London Master degree
-\n Codes are in the branch of "ANN_codes"
+Codes for Imperial College London Master degree
+Codes are in the branch of "ANN_codes"
